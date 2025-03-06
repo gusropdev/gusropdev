@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Hi! I'm Gustavo, a Fullstack Dev JR.<br><br>-🎓 Computer Science college student at UFRRJ.<br>-🕹️ I love to play some solo games.<br>-♟️ Chess enthusiast.<br>-📚 Currently studying .NET with Blazor.</p>
+<p align="left">Hi! I'm Gustavo, a Junior Fullstack Developer.<br><br>-🎓 Computer Science student at UFRRJ.<br>-🕹️ I love playing single player games.<br>-♟️ Chess enthusiast.<br>-📚 Currently diving into .NET with Blazor.</p>
 
 ###
 
